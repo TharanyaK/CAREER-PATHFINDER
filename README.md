@@ -4,27 +4,11 @@
 
 <hr />
 
-<p align="center">
-  <a href="https://vercel.com/tharanya-ks-projects/career-pathfinder/">
-    <hr />
-    <img src="./imgs/admin-view.png" />
-    <hr />
-    <img src="./imgs/applied-jobs.png" />
-    <hr />
-    <img src="./imgs/user-profile.png" />
-    <hr />
-    <img src="./imgs/posted-jobs.png" />
-    <hr />
-    <img src="./imgs/notifications.png" />
-    <hr />
-    <img src="./imgs/login.png" />
-    <hr />
-  </a>
-<p>
+
       ![image](https://github.com/user-attachments/assets/3c99e8ae-f633-4546-a16a-bc31a9800eb5)
 
 
-    <hr />
+ <hr />
   
   
   
