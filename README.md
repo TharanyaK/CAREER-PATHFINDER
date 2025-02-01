@@ -2,13 +2,13 @@
 
 **_<p align="center">CAREER PATHFINDER-lite is a job portl application. The project was built with React and Firebase.</p>_**
 
-<hr />
+
 
 
       ![image](https://github.com/user-attachments/assets/3c99e8ae-f633-4546-a16a-bc31a9800eb5)
 
 
- <hr />
+
   
   
   
