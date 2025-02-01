@@ -18,7 +18,7 @@
     <img src="./imgs/notifications.png" />
     <hr />
    
-    s
+    
   </a>
 <p>
   __Features__
