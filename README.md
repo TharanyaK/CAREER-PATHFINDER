@@ -1,7 +1,5 @@
 <h1 align="center"><i>CAREER PATHFINDER</i></h1>
 
-<h1 align="center"><i>CAREER PATHFINDER</i></h1>
-
 **_<p align="center">CAREER PATHFINDER-lite is a job portal application. The project was built with React and Firebase.</p>_**
   
   
