@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://vercel.com/tharanya-ks-projects/career-pathfinder/">
-    ![image](https://github.com/user-attachments/assets/3c99e8ae-f633-4546-a16a-bc31a9800eb5)
-
     <hr />
     <img src="./imgs/admin-view.png" />
     <hr />
@@ -23,6 +21,9 @@
     <hr />
   </a>
 <p>
+      ![image](https://github.com/user-attachments/assets/3c99e8ae-f633-4546-a16a-bc31a9800eb5)
+
+
     <hr />
   
   
