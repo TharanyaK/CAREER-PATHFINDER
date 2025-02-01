@@ -1,6 +1,5 @@
 <h1 align="center"><i>CAREER PATHFINDER</i></h1>
 
-
 **_<p align="center">CAREER PATHFINDER-lite is a job portl application. The project was built with React and Firebase.</p>_**
   
   
@@ -22,7 +21,6 @@
     s
   </a>
 <p>
-
   __Features__
   
    <hr />
@@ -51,9 +49,5 @@
 
 <p>username: admin@gmail.com</p>
 <p>password: admin</p>
-<<<<<<< HEAD
 
-=======
-![image](https://github.com/user-attachments/assets/ce1f0ec6-bf6a-432f-8d45-58dcf20b057b)
->>>>>>> 4664e1f83f43b2db2729130f5eddd2364ef044e0
 
