@@ -7,8 +7,6 @@
   
 <p align="center">
   <a href="https://vercel.com/tharanya-ks-projects/career-pathfinder">
-   
-    
     <img src="./imgs/admin-view.png" />
     <hr />
     <img src="./imgs/applied-jobs.png" />
