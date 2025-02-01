@@ -1,12 +1,13 @@
-<h1 align="center"><i>CAREER PATHFINDER</i></h1>
+<h1 align="center"><i>PERFECTJOBS-LITE</i></h1>
 
-**_<p align="center">CAREER PATHFINDER-lite is a job portl application. The project was built with React and Firebase.</p>_**
-  
-  
+**_<p align="center">Perfectjobs-lite is a job portl application. It was developed during a course in Udemy. The project was built with React, ANTD and Firebase.</p>_**
+
+<hr />
+
 <p align="center">
   <a href="https://perfectjobs-lite.netlify.app/">
-    
-   
+    <img src="./imgs/home.png" />
+    <hr />
     <img src="./imgs/admin-view.png" />
     <hr />
     <img src="./imgs/applied-jobs.png" />
@@ -17,10 +18,23 @@
     <hr />
     <img src="./imgs/notifications.png" />
     <hr />
-   
-    
+    <img src="./imgs/login.png" />
+    <hr />
   </a>
-</p>
+<p>
+    <hr />
+  
+  __Certificates__
+  
+   <hr />
+   <p align="center">
+  <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-5b6094fc-2177-4cd2-aaeb-6c996791d48e.jpg?v=1669569109000">
+    <img src="./imgs/certificate.png" />
+    <hr />
+  </a>
+<p>
+  <hr />
+  
   __Features__
   
    <hr />
@@ -41,13 +55,11 @@
 
   <hr />
 
-<h2>Hosted at <a href="https://perfectjobs-lite.netlify.app/" />https://vercel.com/tharanya-ks-projects/career-pathfinder/</h2>
+<h2>Hosted at <a href="https://perfectjobs-lite.netlify.app/" />https://perfectjobs-lite.netlify.app/</h2>
 
 <hr/>
 
 <h3>Admin credentials</h3>
 
-<p>username: admin@gmail.com</p>
-<p>password: admin</p>
-
-
+<p>username: admin@abv.bg</p>
+<p>password: 123456</p>
